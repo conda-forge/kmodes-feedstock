@@ -5,11 +5,13 @@ Home: https://github.com/nicodv/kmodes
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kmodes-feedstock/blob/master/LICENSE.txt)
 
 Summary: Python implementations of the k-modes and k-prototypes clustering algorithms for clustering categorical data.
 
+Development: https://github.com/nicodv/kmodes
 
+Documentation: https://pypi.org/project/kmodes/
 
 Current build status
 ====================
