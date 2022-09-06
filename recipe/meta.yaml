@@ -1,5 +1,5 @@
 {% set name = "kmodes" %}
-{% set version = "0.12.1" %}
+{% set version = "0.12.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/kmodes-{{ version }}.tar.gz
-  sha256: 1ed5c2bee2501974c0766f9816f3baf70c2c71d8c9053e65474ecc977d39023e
+  sha256: d840ac9f4616a668ebacba24a12ec1def87da24a9fd0a0dc2f7499a9b9a6f45b
 
 build:
   number: 0
